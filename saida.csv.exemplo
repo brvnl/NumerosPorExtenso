@@ -1,0 +1,11 @@
+Original,Formatado,Por Extenso
+123456789012345,"R$ 1.234.567.890.123,45","um trilhão, duzentos e trinta e quatro bilhões, quinhentos e sessenta e sete milhões, oitocentos e noventa mil, cento e vinte e tres reais e quarenta e cinco centavos"
+12345678,"R$ 123.456,78","cento e vinte e tres mil, quatrocentos e cinquenta e seis reais e setenta e oito centavos"
+10205679,"R$ 102.056,79","cento e dois mil, cinquenta e seis reais e setenta e nove centavos"
+10000079,"R$ 100.000,79","cem mil e setenta e nove centavos"
+12345,"R$ 123,45","cento e vinte e tres reais e quarenta e cinco centavos"
+1234,"R$ 12,34","doze reais e trinta e quatro centavos"
+123456,"R$ 1.234,56","um mil, duzentos e trinta e quatro reais e cinquenta e seis centavos"
+1,"R$ 0,01","um centavo"
+22,"R$ 0,22","vinte e dois centavos"
+100,"R$ 1,00","um real"
